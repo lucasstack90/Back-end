@@ -22,7 +22,8 @@ Estamos aprendendo a desenvolver aplicações robustas, organizadas e escalávei
 
 ## 📚 O que aprendemos até agora??
 
-- 
+- Arrays e suas práticas
+- Contatenação e Operadores 
 
 ---
 
