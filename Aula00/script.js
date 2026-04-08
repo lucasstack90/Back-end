@@ -35,4 +35,5 @@ for (let i = 0; i < notas.length; i++){
     console.log(numeros[i])
 }
 
-const media = somaDasNotas 
+const media = somaDasNotas / notas.length;
+console.log(`A medida das notas é ${media}.`);
